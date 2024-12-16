@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "PubHub",
+    "slug": "pubhub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Pub_1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ad6a853f-4830-48a5-887b-26c3cbe3d31d"
+      }
+    },
+    "owner": "gabrielwennmark",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
