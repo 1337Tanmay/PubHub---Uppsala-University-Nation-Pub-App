@@ -61,6 +61,6 @@ A React Native mobile application that serves as your comprehensive guide to Upp
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
-For any questions or feedback, please contact us at [gurao77@gmail.com](mailto:gurao77@gmail.com), [gabriel.wennmark@gmail.com](mailto:gabriel.wennmark@gmail.com) or [osdan002@gmail.com](mailto:osdan002@gmail.com)..
+For any questions or feedback, please contact us at [gurao77@gmail.com](mailto:gurao77@gmail.com), [gabriel.wennmark@gmail.com](mailto:gabriel.wennmark@gmail.com) or [osdan002@gmail.com](mailto:osdan002@gmail.com).
 
 Happy pubbing! 🍻
